@@ -1,0 +1,96 @@
+Filosofo 0 tiene HAMBRE
+   Mesa: [ H P P P P ]
+Filosofo 0 toma los tenedores 0 y 1 y COME
+   Mesa: [ C P P P P ]
+Filosofo 2 tiene HAMBRE
+   Mesa: [ C P H P P ]
+Filosofo 2 toma los tenedores 2 y 3 y COME
+   Mesa: [ C P C P P ]
+Filosofo 3 tiene HAMBRE
+   Mesa: [ C P C H P ]
+Filosofo 0 deja los tenedores y PIENSA
+   Mesa: [ P P C H P ]
+Filosofo 0 tiene HAMBRE
+   Mesa: [ H P C H P ]
+Filosofo 0 toma los tenedores 0 y 1 y COME
+   Mesa: [ C P C H P ]
+Filosofo 1 tiene HAMBRE
+   Mesa: [ C H C H P ]
+Filosofo 4 tiene HAMBRE
+   Mesa: [ C H C H H ]
+Filosofo 2 deja los tenedores y PIENSA
+   Mesa: [ C H P H H ]
+Filosofo 3 toma los tenedores 3 y 4 y COME
+   Mesa: [ C H P C H ]
+Filosofo 0 deja los tenedores y PIENSA
+   Mesa: [ P H P C H ]
+Filosofo 1 toma los tenedores 1 y 2 y COME
+   Mesa: [ P C P C H ]
+Filosofo 0 tiene HAMBRE
+   Mesa: [ H C P C H ]
+Filosofo 2 tiene HAMBRE
+   Mesa: [ H C H C H ]
+Filosofo 3 deja los tenedores y PIENSA
+   Mesa: [ H C H P H ]
+Filosofo 4 toma los tenedores 4 y 0 y COME
+   Mesa: [ H C H P C ]
+Filosofo 4 deja los tenedores y PIENSA
+   Mesa: [ H C H P P ]
+Filosofo 1 deja los tenedores y PIENSA
+   Mesa: [ H P H P P ]
+Filosofo 0 toma los tenedores 0 y 1 y COME
+   Mesa: [ C P H P P ]
+Filosofo 2 toma los tenedores 2 y 3 y COME
+   Mesa: [ C P C P P ]
+Filosofo 3 tiene HAMBRE
+   Mesa: [ C P C H P ]
+Filosofo 4 tiene HAMBRE
+   Mesa: [ C P C H H ]
+Filosofo 1 tiene HAMBRE
+   Mesa: [ C H C H H ]
+Filosofo 0 deja los tenedores y PIENSA
+   Mesa: [ P H C H H ]
+Filosofo 4 toma los tenedores 4 y 0 y COME
+   Mesa: [ P H C H C ]
+Filosofo 0 termino sus 3 comidas
+Filosofo 4 deja los tenedores y PIENSA
+   Mesa: [ P H C H P ]
+Filosofo 2 deja los tenedores y PIENSA
+   Mesa: [ P H P H P ]
+Filosofo 1 toma los tenedores 1 y 2 y COME
+   Mesa: [ P C P H P ]
+Filosofo 3 toma los tenedores 3 y 4 y COME
+   Mesa: [ P C P C P ]
+Filosofo 4 tiene HAMBRE
+   Mesa: [ P C P C H ]
+Filosofo 1 deja los tenedores y PIENSA
+   Mesa: [ P P P C H ]
+Filosofo 1 tiene HAMBRE
+   Mesa: [ P H P C H ]
+Filosofo 1 toma los tenedores 1 y 2 y COME
+   Mesa: [ P C P C H ]
+Filosofo 2 tiene HAMBRE
+   Mesa: [ P C H C H ]
+Filosofo 3 deja los tenedores y PIENSA
+   Mesa: [ P C H P H ]
+Filosofo 4 toma los tenedores 4 y 0 y COME
+   Mesa: [ P C H P C ]
+Filosofo 1 deja los tenedores y PIENSA
+   Mesa: [ P P H P C ]
+Filosofo 2 toma los tenedores 2 y 3 y COME
+   Mesa: [ P P C P C ]
+Filosofo 1 termino sus 3 comidas
+Filosofo 4 deja los tenedores y PIENSA
+   Mesa: [ P P C P P ]
+Filosofo 4 termino sus 3 comidas
+Filosofo 3 tiene HAMBRE
+   Mesa: [ P P C H P ]
+Filosofo 2 deja los tenedores y PIENSA
+   Mesa: [ P P P H P ]
+Filosofo 3 toma los tenedores 3 y 4 y COME
+   Mesa: [ P P P C P ]
+Filosofo 2 termino sus 3 comidas
+Filosofo 3 deja los tenedores y PIENSA
+   Mesa: [ P P P P P ]
+Filosofo 3 termino sus 3 comidas
+Todos los filosofos terminaron de cenar.
